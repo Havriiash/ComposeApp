@@ -15,6 +15,9 @@ Inspirated from to [MobileDeveloper](https://www.youtube.com/c/MobileDeveloper)
 [Task description](https://docs.google.com/document/d/1XiNfo4pGc5VT1e-88bU7JB23IxE3QAmVOovgFT7FSwA/)
 
 ## Resume
-[Download apk](#)
+[Download apk](./apk/composeapp.apk)
 
-![image](#)
+![image](./screens/1.png)
+![image](./screens/2.png)
+![image](./screens/3.png)
+![image](./screens/4.png)
